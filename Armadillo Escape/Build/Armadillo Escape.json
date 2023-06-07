@@ -1,0 +1,16 @@
+{
+"companyName": "Helix9",
+"productName": "Armadillo Escape",
+"productVersion": "1",
+"dataUrl": "Armadillo Escape.data.unityweb",
+"wasmCodeUrl": "Armadillo Escape.wasm.code.unityweb",
+"wasmFrameworkUrl": "Armadillo Escape.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
